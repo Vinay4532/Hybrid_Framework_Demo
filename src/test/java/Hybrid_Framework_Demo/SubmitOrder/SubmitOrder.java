@@ -20,6 +20,7 @@ public class SubmitOrder extends BaseTest{
 		     
 		     l1.loginfields("pavanol", "test@123");
 		     Thread.sleep(2000);
+		     //Sucessfully test is completed
 	}
 
 }
